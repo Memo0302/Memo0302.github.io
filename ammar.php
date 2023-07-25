@@ -1,6 +1,6 @@
 <?php
 // Database connection settings
-$servername = "ammar";
+$servername = "index";
 $username = "your_username";
 $password = "your_password";
 $dbname = "robot";
